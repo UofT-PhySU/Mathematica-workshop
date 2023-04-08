@@ -1,1 +1,1 @@
-# Matlab-workshop
+# Mathematica-workshop
